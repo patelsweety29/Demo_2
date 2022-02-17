@@ -5,4 +5,7 @@ pizza
 
 chicken 
 
+beans
+burritos
+
 thank you 
